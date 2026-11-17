@@ -9,6 +9,7 @@
 | Путь | Что там |
 |---|---|
 | [`PLAN.md`](PLAN.md) | План проекта: воронка отбора идей, критерии, скоринг, таймлайн |
-| [`research/games.csv`](research/games.csv) | Список игр для анализа |
+| [`research/games.csv`](research/games.csv) | Список игр для анализа (102 игры) |
+| [`research/games-summary.md`](research/games-summary.md) | Методика отбора и повторяющиеся паттерны |
 | `ideas/` | Карточки идей (одна идея — один файл) |
 | [`templates/`](templates/) | Шаблоны разбора игры и карточки идеи |
