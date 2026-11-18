@@ -13,6 +13,12 @@
 
 ## Подключение
 
+**Быстро:** открой сцену → **Tools → Retro Dithering → Setup Active Scene** → сохрани сцену.
+Команда добавит Renderer Feature во все URP Renderer из Quality Settings, создаст в сцене глобальный Volume
+с профилем `<Сцена>_RetroDithering.asset` рядом со сценой и выключит сглаживание на главной камере.
+
+**Вручную:**
+
 1. Открой ассет URP Renderer (например, `Assets/Settings/PC_Renderer`) → **Add Renderer Feature → Retro Dithering**.
 2. На Global Volume: **Add Override → Post-processing Custom → Retro Dithering**, включи **Intensity** и поставь 1.
 3. Для чистого вида на камере выключи сглаживание (Anti-aliasing: None), в Volume выключи Bloom.
