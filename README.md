@@ -12,4 +12,5 @@
 | [`research/games.csv`](research/games.csv) | Список игр для анализа (102 игры) |
 | [`research/games-summary.md`](research/games-summary.md) | Методика отбора и повторяющиеся паттерны |
 | `ideas/` | Карточки идей (одна идея — один файл) |
+| `prototypes/` | Код прототипов (копии из Unity-проекта) |
 | [`templates/`](templates/) | Шаблоны разбора игры и карточки идеи |
